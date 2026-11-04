@@ -3,7 +3,7 @@
 # Zephyron Tech
 
 **Software studio from Pilsen, Czech Republic.**
-We build custom information systems, automations and the infrastructure they run on.
+We build custom information systems, automations and the infrastructure.
 
 [zephyron.tech](https://zephyron.tech) · [hello@zephyron.tech](mailto:hello@zephyron.tech) · [LinkedIn](https://www.linkedin.com/company/zephyron-tech)
 
